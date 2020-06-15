@@ -1,4 +1,4 @@
-# Practica 01: Tecnicas y Herramientas para Despliegue Continuo
+# Tecniques and Tools for Contininue Deployment
 
 ## Overview
 
@@ -36,4 +36,3 @@ terraform {
 * [Pipeline Plugin](https://wiki.jenkins.io/display/JENKINS/Pipeline+Plugin)
 * [CloudBees AWS Credentials Plugin](https://wiki.jenkins.io/display/JENKINS/CloudBees+AWS+Credentials+Plugin)
 
-	
